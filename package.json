@@ -17,5 +17,5 @@
     "dev": "wrangler dev src/index.js --env dev"
   },
   "license": "MIT",
-  "main": "src/index.js"
+  "main": "_index.js"
 }
